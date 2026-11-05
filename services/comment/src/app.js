@@ -132,7 +132,7 @@ import rateLimit from 'express-rate-limit';
 
 // import { GoogleRoute } from './route.js';
 // import { setupJwtStrategy } from './config/auth.js';
-import { requestLogger } from '../../apiGateway/src/logger.js';
+import { requestLogger } from '../../api/src/logger.js';
 import { errorHandler, notFoundHandler } from '../../../shared/middleware/errorHandler.js';
 // import { setupJwtStrategy, setupGoogleStrategy } from './auth.js';
 // import ResponseFormatter from './utils/ResponseFormatter.js';
