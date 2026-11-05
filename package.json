@@ -1,0 +1,24 @@
+{
+  "name": "synergy-microservice",
+  "version": "1.0.0",
+  "description": "The added success, energy, or power gained by two people or organizations working together, which is better than the result achieved by them working separately.",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atul4549/synergy-microservice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/atul4549/synergy-microservice/issues"
+  },
+  "homepage": "https://github.com/atul4549/synergy-microservice#readme",
+  "dependencies": {
+    "winston": "^3.19.0"
+  }
+}
